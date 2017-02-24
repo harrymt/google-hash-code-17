@@ -4,4 +4,4 @@ Solving a distributed knapsack problem based on caching YouTube videos.
 
 Current Highscore: 1,548,92 (2% of 17,000 people).
 
-[banner.jpg]
+![Google Hash Code Banner](banner.jpg)
